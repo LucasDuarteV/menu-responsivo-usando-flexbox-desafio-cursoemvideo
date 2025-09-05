@@ -29,4 +29,4 @@ Este projeto está finalizado e serve como um portfólio para demonstrar habilid
 Este projeto está distribuído sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE no repositório.
 
 ## Hospedagem
-LINK: 
+LINK: https://lucasduartev.github.io/menu-responsivo-usando-flexbox-desafio-cursoemvideo/
